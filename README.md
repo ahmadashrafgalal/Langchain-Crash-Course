@@ -35,6 +35,10 @@ LangChain Crash Course/
 │   ├── \[11] main\[RAGs Intro] copy.py
 │   └── \[12] main\[RAGs Intro 2].py
 │
+├── \[06] Memory/
+│   ├── \[14] main[Memory].ipynb
+│   ├── \[15] main[Langgraph Memory].py
+|
 ├── documents/                # Example documents for RAG
 │   ├── Lec 2 Alt.txt
 │   └── temp.txt
